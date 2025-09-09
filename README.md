@@ -6,14 +6,14 @@ A Bike Store wanted to know Annual Revenue Growth from 2011 to 2016.
 - <a href="https://github.com/Abdelrhman-Atef/Data-Analysis-Dashboard/blob/main/-Bike%20Sales.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-•	Comparing Quantity and Revenue Over the Years.  
-•	Which type of bike has the highest percentage revenue. 
-•	What is the top country in revenue.
-•	What the top 10 state in revenue.
-•	Which age group has the highest revenue. 
-•	Compare between categories in revenue. 
-•	Compare between Total revenue, Total orders and average revenue / order  
-•	Dashboard interaction. 
+-	Comparing Quantity and Revenue Over the Years.  
+-	Which type of bike has the highest percentage revenue. 
+-	What is the top country in revenue.
+-	What the top 10 state in revenue.
+-	Which age group has the highest revenue. 
+-	Compare between categories in revenue. 
+-	Compare between Total revenue, Total orders and average revenue / order  
+-	Dashboard interaction. 
 
 ## Process
 •	Make sure that data is clean. 
