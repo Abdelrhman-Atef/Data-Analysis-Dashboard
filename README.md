@@ -16,10 +16,10 @@ A Bike Store wanted to know Annual Revenue Growth from 2011 to 2016.
 -	Dashboard interaction. 
 
 ## Process
-•	Make sure that data is clean. 
-•	Create pivot tables according to the question asked. 
-•	Merge all pivot tables into one dashboard 
-•	Create slicers to help in visualizing the data each year alone. 
+-	Make sure that data is clean. 
+-	Create pivot tables according to the question asked. 
+-	Merge all pivot tables into one dashboard 
+-	Create slicers to help in visualizing the data each year alone. 
 
 ## Dashboard
 -<a href="https://github.com/Abdelrhman-Atef/Data-Analysis-Dashboard/blob/main/Bike%20sales.png">View Dashboard</a> 
