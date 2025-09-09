@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I have made a project using Excell, creating some Dashboards and Tabels to analyze the data. 
+# Bike-Store-Data-Analysis (Creat dashboard using Excel) 
+## The Project Objective 
+A Bike Store wanted to know Annual Revenue Growth from 2011 to 2016. 
