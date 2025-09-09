@@ -5,7 +5,7 @@ A Bike Store wanted to know Annual Revenue Growth from 2011 to 2016.
 ## Dataset used
 - <a href="https://github.com/Abdelrhman-Atef/Data-Analysis-Dashboard/blob/main/-Bike%20Sales.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 •	Comparing Quantity and Revenue Over the Years.  
 •	Which type of bike has the highest percentage revenue. 
 •	What is the top country in revenue.
@@ -15,11 +15,11 @@ A Bike Store wanted to know Annual Revenue Growth from 2011 to 2016.
 •	Compare between Total revenue, Total orders and average revenue / order  
 •	Dashboard interaction. 
 
-##Process
+## Process
 •	Make sure that data is clean. 
 •	Create pivot tables according to the question asked. 
 •	Merge all pivot tables into one dashboard 
 •	Create slicers to help in visualizing the data each year alone. 
 
-##Dashboard
+## Dashboard
 -<a href="https://github.com/Abdelrhman-Atef/Data-Analysis-Dashboard/blob/main/Bike%20sales.png">View Dashboard</a> 
